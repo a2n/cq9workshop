@@ -4,5 +4,5 @@ import "log"
 
 func main() {
 	log.SetFlags(log.Lmicroseconds | log.Lshortfile)
-	f3()
+	f4()
 }
